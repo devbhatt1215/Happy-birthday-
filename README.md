@@ -126,19 +126,10 @@
             opacity: 1;
             transform: translateY(0);
         }
-    </style>
-</head>
-<body>
-
-<canvas id="starCanvas" style="position:fixed; top:0; left:0; z-index:-1;"></canvas>
-
-<header>
+    </style></head><body><canvas id="starCanvas" style="position:fixed; top:0; left:0; z-index:-1;"></canvas><header>
     <h1>Happy Birthday Ankitaa❤️😊</h1>
     <p>God bless you mera bccha. Bhgwan ji aapko Humesha khush rakhe jii.❤️❤️</p>
-    <div class="heart">💖</div>
-</header>
-
-<section>
+    <div class="heart">💖</div></header><section>
     <div class="card">
         <h2>Our Song 🎶</h2>
         <audio controls loop>
@@ -155,29 +146,7 @@
 
              <div class="story-chapter">
                 <div class="chapter-title">📖 Chapter - 0 - Introduction</div>
-                <div class="chapter-text"> "I'll never fall in love, again until I found her ...and i would never fall unless it's I've fallen to ..I lost " ah ...ohh toh tumne mujhe dhud liya ....Toh ab kese dhunda ye sb formality hatate h ...
-Ye hai meri kahani jha mai mila uss shaks se jo mere liye aage chlke itna khaas hogya ki mene uske liye hrr chiz hasil Krli ( ofc jo mere bss mei tha 🤧)
-.....Toh shuru krte h ..ye baat h uss zamane kiii....oh sorry 😅 ye baat h 2024 ki...I saw a girl..Kya lgta h 😂...Ese describe kri hogi....Nh nh nh 😂Listen ...let's imagine....
-A school corridor.. usme ek ldki aayi chlke uske baal aadhe brown or aadhe black esa rang jisme koi bhi insan khona chahega ofc mai khoya ... Pr chhodo abhi..Uski aakhe itni pyari..Unn aakho ki itna gehra hona hi khaas tha.....
-Vo aakhe ager kisi laash ko dekhle toh use zinda krr de vo aakho ne uss vkt mujhe dekha..........
-Socho mera kya hua hoga yaar 😂, khair ....Aage chlte h......
-Ab nain naksh ki baat hogyi h toh ab hotho ki trf chlte h..Unn hotho ka rang gulabi jese khud gulab ne vha se janam liya ho jese unhe hi dekh ke bhgwan ne vo rang bnaya ho.....Unn hotho se jo shbd nikle maano jese humare kaano ke liye koi geet 
-Unka Hnji or ji  hi hume itna pyara lgta tha jese bss vo bolti jaaye or hum sunte rhe
-Ab agrr niche aaye toh ab sharir ki baat krte h..Unnka chal chalan toh maano jese laxmi ji mere samne chl rhi ho ek ek kadam sakshat kamal ka phool jese lgta tha...
-.Or agrr hum unke kadmo ki baat krr hi rhe h toh unke pero ki baat hi krr lete h ...unke per toh mano jese vo phool ki trh thy jise agr chu le toh chune vala amar ho jaye unke pero ki ungliyo tb ko phoolo ki pankhudi jesa bnaya tha bhgwan ne...Toh ab aage chlte h ..
-Farmaish h ki kitab ko chhoti rkhna h toh koshish krte h😂....Ab jese ki mene btaya unki nazron ne hume dekha toh hum toh khone hi thy, b agrr hum kho chuke toh unke toh hone hi thy...Heina......Khair,
-Kaash vo pll humara hota,
-Uss vkt sath bss hum dono ka hota,
-Mgr kismat ka chaha kux or tha,
-Kisi or ldke ki dakhalandazi nh hoti,
-Toh aaj vo pll bhi humara hota.........
-Samaye bit ta gya humare alg hone ka samaye nazdeek tha magar kismat ka chakkar fir ghuma...
-Unka hello humpe khud aaya,
-Humari Khushi ka thikana nh tha humne kisiko btana nh tha humne bss baate krni thi or subha tk sona nh tha....
-Fir jb humara samay aa hi gya toh ab ye majboor kya krta iss aakho ke doobe shaks ne unse khata krr hi di ki kya vo humse mohobbat krne ki khata krenge...........
-Unka jawab hn aaya or unhone humari zindagi ko bhi apne jesa gulab krr diya ab humari zindagi mei kisi ldki or ldki ka ana hi humare liye bhot bdi khata hogi....
-Akhir mei sb khata ko hatate hai bhgwan kre aapko bhi ek nh ek din koi axi mahila mile jo aapse bhi mohabbat krne ki khata kre.....
-</div>
+                <div class="chapter-text"> "I'll never fall in love, again until I found her ...and i would never fall unless it's I've fallen to ..I lost " ah ...ohh toh tumne mujhe dhud liya ....Toh ab kese dhunda ye sb formality hatate h ...Ye hai meri kahani jha mai mila uss shaks se jo mere liye aage chlke itna khaas hogya ki mene uske liye hrr chiz hasil Krli ( ofc jo mere bss mei tha 🤧).....Toh shuru krte h ..ye baat h uss zamane kiii....oh sorry 😅 ye baat h 2024 ki...I saw a girl..Kya lgta h 😂...Ese describe kri hogi....Nh nh nh 😂Listen ...let's imagine....A school corridor.. usme ek ldki aayi chlke uske baal aadhe brown or aadhe black esa rang jisme koi bhi insan khona chahega ofc mai khoya ... Pr chhodo abhi..Uski aakhe itni pyari..Unn aakho ki itna gehra hona hi khaas tha.....Vo aakhe ager kisi laash ko dekhle toh use zinda krr de vo aakho ne uss vkt mujhe dekha..........Socho mera kya hua hoga yaar 😂, khair ....Aage chlte h......Ab nain naksh ki baat hogyi h toh ab hotho ki trf chlte h..Unn hotho ka rang gulabi jese khud gulab ne vha se janam liya ho jese unhe hi dekh ke bhgwan ne vo rang bnaya ho.....Unn hotho se jo shbd nikle maano jese humare kaano ke liye koi geet Unka Hnji or ji  hi hume itna pyara lgta tha jese bss vo bolti jaaye or hum sunte rheAb agrr niche aaye toh ab sharir ki baat krte h..Unnka chal chalan toh maano jese laxmi ji mere samne chl rhi ho ek ek kadam sakshat kamal ka phool jese lgta tha....Or agrr hum unke kadmo ki baat krr hi rhe h toh unke pero ki baat hi krr lete h ...unke per toh mano jese vo phool ki trh thy jise agr chu le toh chune vala amar ho jaye unke pero ki ungliyo tb ko phoolo ki pankhudi jesa bnaya tha bhgwan ne...Toh ab aage chlte h ..Farmaish h ki kitab ko chhoti rkhna h toh koshish krte h😂....Ab jese ki mene btaya unki nazron ne hume dekha toh hum toh khone hi thy, b agrr hum kho chuke toh unke toh hone hi thy...Heina......Khair,Kaash vo pll humara hota,Uss vkt sath bss hum dono ka hota,Mgr kismat ka chaha kux or tha,Kisi or ldke ki dakhalandazi nh hoti,Toh aaj vo pll bhi humara hota.........Samaye bit ta gya humare alg hone ka samaye nazdeek tha magar kismat ka chakkar fir ghuma...Unka hello humpe khud aaya,Humari Khushi ka thikana nh tha humne kisiko btana nh tha humne bss baate krni thi or subha tk sona nh tha....Fir jb humara samay aa hi gya toh ab ye majboor kya krta iss aakho ke doobe shaks ne unse khata krr hi di ki kya vo humse mohobbat krne ki khata krenge...........Unka jawab hn aaya or unhone humari zindagi ko bhi apne jesa gulab krr diya ab humari zindagi mei kisi ldki or ldki ka ana hi humare liye bhot bdi khata hogi....Akhir mei sb khata ko hatate hai bhgwan kre aapko bhi ek nh ek din koi axi mahila mile jo aapse bhi mohabbat krne ki khata kre.....</div>
             </div>
 
             <div class="story-divider">· · · ❤️ · · ·</div>
@@ -347,34 +316,16 @@ Akhir mei sb khata ko hatate hai bhgwan kre aapko bhi ek nh ek din koi axi mahil
             you complete me ankita 🥹❤️ aapke aane ke baad mai complete hua hu 🫠❤️....
             isliye I love you Ankita 🧿🫠❤️ please merko kbhi chhod ke mtt jana jii 🫠❤️
         </p>
-    </div>
-</section>
-
-<footer>
+    </div></section><footer>
     Made with ❤️ by Dev for Ankita <br>
-    Forever & Always ✨
-</footer>
-
-<script>
-// ===== STAR BACKGROUND =====
-const canvas = document.getElementById('starCanvas');
-const ctx = canvas.getContext('2d');
-
-function resize() {
+    Forever & Always ✨</footer><script>// ===== STAR BACKGROUND =====const canvas = document.getElementById('starCanvas');const ctx = canvas.getContext('2d');function resize() {
     canvas.width = window.innerWidth;
-    canvas.height = document.body.scrollHeight;
-}
-resize();
-
-const stars = Array.from({length: 300}, () => ({
+    canvas.height = document.body.scrollHeight;}resize();const stars = Array.from({length: 300}, () => ({
     x: Math.random() * canvas.width,
     y: Math.random() * canvas.height,
     r: Math.random() * 2 + 0.5,
     alpha: Math.random(),
-    speed: Math.random() * 0.015 + 0.003
-}));
-
-function drawStars() {
+    speed: Math.random() * 0.015 + 0.003}));function drawStars() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = '#000010';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
@@ -386,31 +337,14 @@ function drawStars() {
         ctx.fillStyle = `rgba(255,255,255,${s.alpha})`;
         ctx.fill();
     });
-    requestAnimationFrame(drawStars);
-}
-drawStars();
-
-window.addEventListener('resize', () => {
+    requestAnimationFrame(drawStars);}drawStars();window.addEventListener('resize', () => {
     resize();
     stars.forEach(s => {
         s.x = Math.random() * canvas.width;
         s.y = Math.random() * canvas.height;
-    });
-});
-
-// ===== SCROLL REVEAL =====
-const chapters = document.querySelectorAll('.story-chapter, .story-end');
-
-const observer = new IntersectionObserver((entries) => {
+    });});// ===== SCROLL REVEAL =====const chapters = document.querySelectorAll('.story-chapter, .story-end');const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
         if (entry.isIntersecting) {
             entry.target.classList.add('visible');
         }
-    });
-}, { threshold: 0.15 });
-
-chapters.forEach(chapter => observer.observe(chapter));
-</script>
-
-</body>
-</html>
+    });}, { threshold: 0.15 });chapters.forEach(chapter => observer.observe(chapter));</script></body></html>
