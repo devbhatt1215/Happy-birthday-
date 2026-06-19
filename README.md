@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Happy Birthday Ankita ❤️</title>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Happy Birthday Ankita ❤️</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body{font-family:'Segoe UI',sans-serif;background:#000010;color:#fff0f5;overflow:hidden;height:100vh;width:100vw;}
@@ -125,28 +120,7 @@ audio{filter:invert(0.8) hue-rotate(300deg);width:100%;margin-top:10px;}
 
         <div class="story-chapter">
           <div class="chapter-title">📖 Chapter - 0 - Introduction</div>
-          <div class="chapter-text">"I'll never fall in love, again until I found her ...and i would never fall unless it's I've fallen to ..I lost " ah ...ohh toh tumne mujhe dhud liya ....Toh ab kese dhunda ye sb formality hatate h ...
-Ye hai meri kahani jha mai mila uss shaks se jo mere liye aage chlke itna khaas hogya ki mene uske liye hrr chiz hasil Krli ( ofc jo mere bss mei tha 🤧)
-.....Toh shuru krte h ..ye baat h uss zamane kiii....oh sorry 😅 ye baat h 2024 ki...I saw a girl..Kya lgta h 😂...Ese describe kri hogi....Nh nh nh 😂Listen ...let's imagine....
-A school corridor.. usme ek ldki aayi chlke uske baal aadhe brown or aadhe black esa rang jisme koi bhi insan khona chahega ofc mai khoya ... Pr chhodo abhi..Uski aakhe itni pyari..Unn aakho ki itna gehra hona hi khaas tha.....
-Vo aakhe ager kisi laash ko dekhle toh use zinda krr de vo aakho ne uss vkt mujhe dekha..........
-Socho mera kya hua hoga yaar 😂, khair ....Aage chlte h......
-Ab nain naksh ki baat hogyi h toh ab hotho ki trf chlte h..Unn hotho ka rang gulabi jese khud gulab ne vha se janam liya ho jese unhe hi dekh ke bhgwan ne vo rang bnaya ho.....Unn hotho se jo shbd nikle maano jese humare kaano ke liye koi geet
-Unka Hnji or ji hi hume itna pyara lgta tha jese bss vo bolti jaaye or hum sunte rhe
-Ab agrr niche aaye toh ab sharir ki baat krte h..Unnka chal chalan toh maano jese laxmi ji mere samne chl rhi ho ek ek kadam sakshat kamal ka phool jese lgta tha...
-.Or agrr hum unke kadmo ki baat krr hi rhe h toh unke pero ki baat hi krr lete h ...unke per toh mano jese vo phool ki trh thy jise agr chu le toh chune vala amar ho jaye unke pero ki ungliyo tb ko phoolo ki pankhudi jesa bnaya tha bhgwan ne...Toh ab aage chlte h ..
-Farmaish h ki kitab ko chhoti rkhna h toh koshish krte h😂....Ab jese ki mene btaya unki nazron ne hume dekha toh hum toh khone hi thy, b agrr hum kho chuke toh unke toh hone hi thy...Heina......Khair,
-Kaash vo pll humara hota,
-Uss vkt sath bss hum dono ka hota,
-Magar kismat ka chaha kux or tha,
-Kisi or ldke ki dakhalandazi nh hoti,
-Toh aaj vo pll bhi humara hota.........
-Samaye bit ta gya humare alg hone ka samaye nazdeek tha magar kismat ka chakkar fir ghuma...
-Unka hello humpe khud aaya,
-Humari Khushi ka thikana nh tha humne kisiko btana nh tha humne bss baate krni thi or subha tk sona nh tha....
-Fir jb humara samay aa hi gya toh ab ye majboor kya krta iss aakho ke doobe shaks ne unse khata krr hi di ki kya vo humse mohobbat krne ki khata krenge...........
-Unka jawab hn aaya or unhone humari zindagi ko bhi apne jesa gulab krr diya ab humari zindagi mei kisi ldki or ldki ka ana hi humare liye bhot bdi khata hogi....
-Akhir mei sb khata ko hatate hai bhgwan kre aapko bhi ek nh ek din koi axi mahila mile jo aapse bhi mohabbat krne ki khata kre.....</div>
+          <div class="chapter-text">"I'll never fall in love, again until I found her ...and i would never fall unless it's I've fallen to ..I lost " ah ...ohh toh tumne mujhe dhud liya ....Toh ab kese dhunda ye sb formality hatate h ...Ye hai meri kahani jha mai mila uss shaks se jo mere liye aage chlke itna khaas hogya ki mene uske liye hrr chiz hasil Krli ( ofc jo mere bss mei tha 🤧).....Toh shuru krte h ..ye baat h uss zamane kiii....oh sorry 😅 ye baat h 2024 ki...I saw a girl..Kya lgta h 😂...Ese describe kri hogi....Nh nh nh 😂Listen ...let's imagine....A school corridor.. usme ek ldki aayi chlke uske baal aadhe brown or aadhe black esa rang jisme koi bhi insan khona chahega ofc mai khoya ... Pr chhodo abhi..Uski aakhe itni pyari..Unn aakho ki itna gehra hona hi khaas tha.....Vo aakhe ager kisi laash ko dekhle toh use zinda krr de vo aakho ne uss vkt mujhe dekha..........Socho mera kya hua hoga yaar 😂, khair ....Aage chlte h......Ab nain naksh ki baat hogyi h toh ab hotho ki trf chlte h..Unn hotho ka rang gulabi jese khud gulab ne vha se janam liya ho jese unhe hi dekh ke bhgwan ne vo rang bnaya ho.....Unn hotho se jo shbd nikle maano jese humare kaano ke liye koi geetUnka Hnji or ji hi hume itna pyara lgta tha jese bss vo bolti jaaye or hum sunte rheAb agrr niche aaye toh ab sharir ki baat krte h..Unnka chal chalan toh maano jese laxmi ji mere samne chl rhi ho ek ek kadam sakshat kamal ka phool jese lgta tha....Or agrr hum unke kadmo ki baat krr hi rhe h toh unke pero ki baat hi krr lete h ...unke per toh mano jese vo phool ki trh thy jise agr chu le toh chune vala amar ho jaye unke pero ki ungliyo tb ko phoolo ki pankhudi jesa bnaya tha bhgwan ne...Toh ab aage chlte h ..Farmaish h ki kitab ko chhoti rkhna h toh koshish krte h😂....Ab jese ki mene btaya unki nazron ne hume dekha toh hum toh khone hi thy, b agrr hum kho chuke toh unke toh hone hi thy...Heina......Khair,Kaash vo pll humara hota,Uss vkt sath bss hum dono ka hota,Magar kismat ka chaha kux or tha,Kisi or ldke ki dakhalandazi nh hoti,Toh aaj vo pll bhi humara hota.........Samaye bit ta gya humare alg hone ka samaye nazdeek tha magar kismat ka chakkar fir ghuma...Unka hello humpe khud aaya,Humari Khushi ka thikana nh tha humne kisiko btana nh tha humne bss baate krni thi or subha tk sona nh tha....Fir jb humara samay aa hi gya toh ab ye majboor kya krta iss aakho ke doobe shaks ne unse khata krr hi di ki kya vo humse mohobbat krne ki khata krenge...........Unka jawab hn aaya or unhone humari zindagi ko bhi apne jesa gulab krr diya ab humari zindagi mei kisi ldki or ldki ka ana hi humare liye bhot bdi khata hogi....Akhir mei sb khata ko hatate hai bhgwan kre aapko bhi ek nh ek din koi axi mahila mile jo aapse bhi mohabbat krne ki khata kre.....</div>
         </div>
 
         <div class="story-divider">· · · ❤️ · · ·</div>
@@ -306,39 +280,9 @@ Akhir mei sb khata ko hatate hai bhgwan kre aapko bhi ek nh ek din koi axi mahil
           <span style="font-size:0.85rem;color:#ffcce0;opacity:0.7;">Forever & Always ✨</span>
         </div>
       </div>
-    </div>
-
-  </div>
-
-  <div class="swipe-hint" id="swipeHint">← swipe to navigate →</div>
-</div>
-
-<script>
-const canvas=document.getElementById('starCanvas');
-const ctx=canvas.getContext('2d');
-function resizeCanvas(){canvas.width=window.innerWidth;canvas.height=window.innerHeight;}
-resizeCanvas();
-window.addEventListener('resize',resizeCanvas);
-const stars=Array.from({length:250},()=>({x:Math.random()*canvas.width,y:Math.random()*canvas.height,r:Math.random()*2+0.4,alpha:Math.random(),speed:Math.random()*0.012+0.003}));
-function drawStars(){ctx.clearRect(0,0,canvas.width,canvas.height);ctx.fillStyle='#000010';ctx.fillRect(0,0,canvas.width,canvas.height);stars.forEach(s=>{s.alpha+=s.speed;if(s.alpha>1||s.alpha<0)s.speed*=-1;ctx.beginPath();ctx.arc(s.x,s.y,s.r,0,Math.PI*2);ctx.fillStyle=`rgba(255,255,255,${s.alpha})`;ctx.fill();});requestAnimationFrame(drawStars);}
-drawStars();
-
-function spawnConfetti(){const emojis=['🎉','✨','💖','🌸','💕','🎊','⭐','🥹'];for(let i=0;i<40;i++){const el=document.createElement('div');el.className='confetti-piece';el.textContent=emojis[Math.floor(Math.random()*emojis.length)];el.style.left=Math.random()*100+'vw';el.style.animationDuration=(Math.random()*2+1.5)+'s';el.style.animationDelay=Math.random()*1+'s';document.body.appendChild(el);setTimeout(()=>el.remove(),4000);}}
-
-function openGift(){
-  const lid=document.getElementById('giftLid');
-  lid.style.transform='translateY(-80px) rotate(-15deg)';
-  lid.style.opacity='0';
-  setTimeout(()=>{
+    </div>  </div>  <div class="swipe-hint" id="swipeHint">← swipe to navigate →</div></div><script>const canvas=document.getElementById('starCanvas');const ctx=canvas.getContext('2d');function resizeCanvas(){canvas.width=window.innerWidth;canvas.height=window.innerHeight;}resizeCanvas();window.addEventListener('resize',resizeCanvas);const stars=Array.from({length:250},()=>({x:Math.random()*canvas.width,y:Math.random()*canvas.height,r:Math.random()*2+0.4,alpha:Math.random(),speed:Math.random()*0.012+0.003}));function drawStars(){ctx.clearRect(0,0,canvas.width,canvas.height);ctx.fillStyle='#000010';ctx.fillRect(0,0,canvas.width,canvas.height);stars.forEach(s=>{s.alpha+=s.speed;if(s.alpha>1||s.alpha<0)s.speed*=-1;ctx.beginPath();ctx.arc(s.x,s.y,s.r,0,Math.PI*2);ctx.fillStyle=`rgba(255,255,255,${s.alpha})`;ctx.fill();});requestAnimationFrame(drawStars);}drawStars();function spawnConfetti(){const emojis=['🎉','✨','💖','🌸','💕','🎊','⭐','🥹'];for(let i=0;i<40;i++){const el=document.createElement('div');el.className='confetti-piece';el.textContent=emojis[Math.floor(Math.random()*emojis.length)];el.style.left=Math.random()*100+'vw';el.style.animationDuration=(Math.random()*2+1.5)+'s';el.style.animationDelay=Math.random()*1+'s';document.body.appendChild(el);setTimeout(()=>el.remove(),4000);}}function openGift(){  const lid=document.getElementById('giftLid');  lid.style.transform='translateY(-80px) rotate(-15deg)'; lid.style.opacity='0'; setTimeout(()=>{
     document.getElementById('giftScreen').classList.add('hidden');
-    document.getElementById('envelopeScreen').classList.remove('hidden');
-  },700);
-}
-
-function openEnvelope(){
-  document.getElementById('envFlap').classList.add('open');
-  spawnConfetti();
-  setTimeout(()=>{
+    document.getElementById('envelopeScreen').classList.remove('hidden');  },700);}function openEnvelope(){  document.getElementById('envFlap').classList.add('open');  spawnConfetti();  setTimeout(()=>{
     document.getElementById('envelopeScreen').classList.add('hidden');
     document.getElementById('contentScreen').classList.remove('hidden');
     initSwipe();
@@ -346,35 +290,13 @@ function openEnvelope(){
     setTimeout(()=>{
       const h=document.getElementById('swipeHint');
       if(h){h.style.opacity='0';}
-    },3000);
-  },1300);
-}
-
-let currentPage=0;
-const totalPages=5;
-
-function goToPage(n){
-  currentPage=Math.max(0,Math.min(totalPages-1,n));
-  const pc=document.getElementById('pagesContainer');
-  pc.style.transition='transform 0.45s cubic-bezier(0.4,0,0.2,1)';
-  pc.style.transform=`translateX(${currentPage*-100}vw)`;
-}
-
-function initSwipe(){
-  const pc=document.getElementById('pagesContainer');
-  const cs=document.getElementById('contentScreen');
-  let touchStartX=0,touchStartY=0,lockAxis=null,isDragging=false,startTranslate=0;
-
-  cs.addEventListener('touchstart',(e)=>{
+    },3000); },1300);}let currentPage=0;const totalPages=5;function goToPage(n){  currentPage=Math.max(0,Math.min(totalPages-1,n));  const pc=document.getElementById('pagesContainer');  pc.style.transition='transform 0.45s cubic-bezier(0.4,0,0.2,1)';  pc.style.transform=`translateX(${currentPage*-100}vw)`;}function initSwipe(){  const pc=document.getElementById('pagesContainer');  const cs=document.getElementById('contentScreen');  let touchStartX=0,touchStartY=0,lockAxis=null,isDragging=false,startTranslate=0; cs.addEventListener('touchstart',(e)=>{
     touchStartX=e.touches[0].clientX;
     touchStartY=e.touches[0].clientY;
     isDragging=true;
     lockAxis=null;
     startTranslate=currentPage*-100;
-    pc.style.transition='none';
-  },{passive:true});
-
-  cs.addEventListener('touchmove',(e)=>{
+    pc.style.transition='none';},{passive:true}); cs.addEventListener('touchmove',(e)=>{
     if(!isDragging)return;
     const dx=e.touches[0].clientX-touchStartX;
     const dy=e.touches[0].clientY-touchStartY;
@@ -388,10 +310,7 @@ function initSwipe(){
 
     e.preventDefault(); // block scroll only when swiping horizontally
     const newX=startTranslate+(dx/window.innerWidth*100);
-    pc.style.transform=`translateX(${newX}vw)`;
-  },{passive:false});
-
-  cs.addEventListener('touchend',(e)=>{
+    pc.style.transform=`translateX(${newX}vw)`; },{passive:false}); cs.addEventListener('touchend',(e)=>{
     if(!isDragging)return;
     isDragging=false;
     if(lockAxis==='y'){
@@ -402,22 +321,4 @@ function initSwipe(){
     const dx=e.changedTouches[0].clientX-touchStartX;
     if(dx<-60) goToPage(currentPage+1);
     else if(dx>60) goToPage(currentPage-1);
-    else goToPage(currentPage);
-  },{passive:true});
-
-  // desktop mouse drag
-  let mouseDown=false,mouseStartX=0;
-  cs.addEventListener('mousedown',(e)=>{mouseDown=true;mouseStartX=e.clientX;startTranslate=currentPage*-100;pc.style.transition='none';});
-  cs.addEventListener('mousemove',(e)=>{if(!mouseDown)return;const dx=e.clientX-mouseStartX;pc.style.transform=`translateX(${startTranslate+(dx/window.innerWidth*100)}vw)`;});
-  cs.addEventListener('mouseup',(e)=>{if(!mouseDown)return;mouseDown=false;const dx=e.clientX-mouseStartX;if(dx<-60)goToPage(currentPage+1);else if(dx>60)goToPage(currentPage-1);else goToPage(currentPage);});
-  cs.addEventListener('mouseleave',()=>{if(!mouseDown)return;mouseDown=false;goToPage(currentPage);});
-}
-
-function initScrollReveal(){
-  const chapters=document.querySelectorAll('.story-chapter');
-  const obs=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible');});},{threshold:0.1});
-  chapters.forEach(c=>obs.observe(c));
-}
-</script>
-</body>
-</html>
+    else goToPage(currentPage);},{passive:true});// desktop mouse drag let mouseDown=false,mouseStartX=0; cs.addEventListener('mousedown',(e)=>{mouseDown=true;mouseStartX=e.clientX;startTranslate=currentPage*-100;pc.style.transition='none';}); cs.addEventListener('mousemove',(e)=>{if(!mouseDown)return;const dx=e.clientX-mouseStartX;pc.style.transform=`translateX(${startTranslate+(dx/window.innerWidth*100)}vw)`;});  cs.addEventListener('mouseup',(e)=>{if(!mouseDown)return;mouseDown=false;const dx=e.clientX-mouseStartX;if(dx<-60)goToPage(currentPage+1);else if(dx>60)goToPage(currentPage-1);else goToPage(currentPage);}); cs.addEventListener('mouseleave',()=>{if(!mouseDown)return;mouseDown=false;goToPage(currentPage);});}function initScrollReveal(){  const chapters=document.querySelectorAll('.story-chapter');  const obs=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible');});},{threshold:0.1});  chapters.forEach(c=>obs.observe(c));}</script></body></html>
